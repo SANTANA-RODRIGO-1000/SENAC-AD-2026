@@ -1,8 +1,19 @@
+# O arquivo .gitignore serve para instruir o Git a
+# ignorar determinados arquivos ou pastas do projeto.
+# .gitignore
+
+# Ignorar arquivos CSV
 *.csv
 
+# Ignorar arquivos PDF
+*.pdf
 
-## .gitignore
+# Ignorar pasta de aulas
+## A BARRA (/) DIFERENCIA ARQUIVO DE PASTA:
+## - aulas  : Ignora tanto arquivos quanto pastas com este nome.
+## - aulas/ : Garante que APENAS a pasta 'aulas' e seu conteúdo sejam ignorados.
+aulas/
 
-## *.csv
 
-## não se deve subir arquivo csv
+
+
