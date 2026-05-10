@@ -8,12 +8,12 @@
 # Ignorar arquivos PDF
 *.pdf
 
-# Ignorar pasta de aulas
+# Ignorar pasta: aulas
 ## A BARRA (/) DIFERENCIA ARQUIVO DE PASTA:
 ## - aulas  : Ignora tanto arquivos quanto pastas com este nome.
 ## - aulas/ : Garante que APENAS a pasta 'aulas' e seu conteúdo sejam ignorados.
 aulas/
 
-
-
+# Ignorar pasta: livros
+livros/
 
