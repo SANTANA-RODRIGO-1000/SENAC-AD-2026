@@ -14,11 +14,12 @@
 ## - aulas/ : Garante que APENAS a pasta 'aulas' e seu conteúdo sejam ignorados.
 aulas/
 
-# Ignorar pasta: livros
+# Ignorar pasta
 livros/
 
-# Ignorar pasta: data
 data/
+
+nara_v1/
 
 #ANOTAÇÕES:
 
